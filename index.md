@@ -40,154 +40,116 @@ announcements and discussions as well.
 
 The schedule below outlines topics, due dates, and links to assignments.
 
-<iframe width="125%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRDuKr9zmldJrL_Xlp0YL75rpd29kzFu7e225l4Yu4s0pEECV5HTv5F68rljHVXMQ6uu62Hz-by2t0J/pubhtml?gid=1920614952&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="125%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSn53Ub3FAvEmXbGMISnaiyukdqJNOsMVjEZqP0JvtILf3P7RrLd5BIEKGFX-61PTq2O6Mr2BvANC62/pubhtml?widget=true&amp;headers=false"></iframe>
 
-<a id="staff">
-## Staff & Resources
+## Syllabus
 
-### Office Hours
+### By the end of this class, you will be able to:
 
-An office hours schedule will be posted here in the first week. If you have
-immediate concerns, Joe has office hours from 1-2:30pm on Tuesday the first
-week.
+**Effectively carry out the basic roles and responsibilities of TAs at UC San Diego.**
 
-### Useful Resources
+*More specifically ...*
 
-- [OCaml Website](http://ocaml.org/)
-- [List of OCaml Tutorials](http://ocaml.org/learn/tutorials/)
-- [OCaml Tutorial](http://mirror.ocamlcore.org/ocaml-tutorial.org/)
-- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-- [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+- Communicate with your instructor to align expectations about the specific roles and responsibilities of your TA position in a given quarter.
+- Effectively plan and deliver discussion sections with clear learning objectives and implementing active learning strategies.
+- Create and use rubrics to support efficient and replicable grading.
 
-<a id="grading">
-## Grading
+**Connect professionalism to teamwork and teaching and reflect on your development as a professional.**
 
-Your grade will be calculated from:
+*More specifically ...*
 
-- 5% participation via clickers
-  - Each week both lecture and discussion will have clicker questions. You get
-    credit for each session where you answer at least half of the questions.
-  - Discussion attendance is not mandatory to get full clicker credit
-  - Credit is awarded proportionally to the number of total lectures with
-    clicker questions (usually around 25), with 4 allowed absences
-- 5% review quizzes
-  - Each week there will be an online review quiz, you get full review quiz
-    credit for getting at least half the questions right
-- 40% programming assignments (7-9 total)
-- 20% take home written work
-- 30% exams
-  - 10% a midterm exam, in class
-  - 20% final exam
-    - You must score over 50% on the final exam to pass the course
-    - If you score higher on the final exam than on the midterm (including 0's on
-      the midterm), the final applies at 30%
-    - There are no make-up midterms; if you do not take the midterm, you get the
-      same score on the midterm as you get on the final
+- Reflect on your and your teammates' collaborations to assess what's working well, what can be improved, and how to improve it.
+- Identify priority areas for attention and improvement, and identify where efficiency can help decrease time spent on non-priority areas.
+- Connect skills and insights from your role as a TA to future career goals.
+- Describe several theories of how people learn and apply them to teaching and learning strategies. 
 
-<a id="policies">
-## Policies
+M*ore specifically ...*
 
-### Late Work
+- Design specific, low-stakes activities to find out what students do and don't know.
+- Use techniques for creating inclusive communities for learning.
 
-You have a total of 4 extension days that you can apply over the course of the
-quarter. Any amount of time (up to 24 hours) past the deadline counts as a full
-day. These apply to programming assignments and to take-home work. You cannot
-use more than one day on a given assignment.
 
-### Regrades
+### You will be evaluated on:
 
-Mistakes occur in grading. Once grades are posted for an assignment, we will
-allow a short period for you to request a fix (announced along with grade
-release). If you don't make a request in the given period, the grade you were
-initially given is final.
+**Completion of required pre-class assignments.**
 
-### Exams
+At the start of the quarter, you must complete the CSE 599 student contract and pre-class survey. At the end of the quarter, you must complete the CSE 599 post-class survey.
 
-You are not allowed any study aids on in-class exams, aside from those
-pertaining to university-approved accommodations. References will be provided
-along with exams to avoid unnecessary memorization.
+**Professional behavior and attendance.**
 
-You cannot discuss the content of exams with others in the course until grades
-have been released for that exam.
+You are expected to fully participate in every class session, including
+arriving on time (or early), engaging in group activities, and participating in
+large- and small-group discussions. On (rare) occasions when unavoidable
+circumstances require you to miss a class session, you are expected to notify
+your practicum teammates, the CSE 599 TA, and the instructor ahead of time, and
+to propose and carry out a plan to make up the missed work.
 
-### Academic Integrity
+**Regular reflections on your TA activities.**
 
-There are two types of assignments in this course:
+At the beginning of the quarter, you will define your TA role and
+responsibilities (using the ASES form). Each week, you'll track what and how
+you do to carry out these duties, and you'll reflect on successes and on areas
+for improvement.
 
-- **Open collaboration** assignments, for which you can talk to anyone else in the
-  course, post snippets of code on Piazza, get lots of help from TAs, and
-  generally come up with solutions collaboratively. TAs will be happy to look
-  at your code and suggest fixes, along with explaining them. There are a few
-  restrictions:
-  - Any code that you didn't write must be cited in the README file that goes
-    along with your submission
-      - **Example:** On an open collaboration assignment, you and another
-        student chat online about the solution, you figure out a particular
-        helper method together. Your README should say “The FOO function was
-        developed in collaboration with Firstname Lastname”
-      - **Example:** On an open collaboration assignment, a student posts the
-        compilation strategy they used to handle a type of expression you were
-        struggling with. Your README should say “I used the code from
-        https://piazza.com/class/id-of-post”
-  - Anyone you work with in-person must be noted in your README
-      - **Example:** You and another student sit next to each other in the lab,
-        and point out mistakes and errors to one another as you work through
-        the assignment. As a result, your solutions are substantially similar.
-        Your README should say “I collaborated with Firstname Lastname to
-        develop my solution.”
-  - You cannot share an entire repository of code or paste an entire solution
-    into Piazza. Keep snippets to reasonable, descriptive chunks of code; think
-    a dozen lines or so to get the point across.
-  - You still _cannot_ use code that you find online, or get assistance or code
-    from students outside of this offering of the class. All the code that is
-    handed in should be developed by you or someone in the class.
+**Engagement with themes discussed in CSE 599.**
 
-- **Closed collaboration** assignments, where you cannot collaborate with others.
-  You can ask clarification questions as private posts on Piazza or of TAs.
-  However, TAs will not look at your code or comment on it. Lab/office hours
-  these weeks are for conceptual questions or for questions about past
-  assignments only, no code assistance. On these assignments:
-    - You cannot look at or use anyone else's code
-    - You cannot discuss the assignment with other students
-    - You cannot post publicly about the assignment on Piazza (or on social
-      media or other forums). Of course, you can still post questions about
-      material from lecture on Piazza!
-    - All of the examples in the open collaboration section above would be
-      academic integrity violations on a closed collaboration assignment
+The CSE 599 themes include communication, feedback, how people learn,
+educational technology, assessment, inclusiveness, and next steps. Each week in
+class (and out), you'll reflect on the background readings and/or CSE 599
+discussions related to one (or more) of these themes. 
 
-Programming assignments will explicitly list whether they are open or closed
-collaboration. There will also be take-home written homeworks, which are always
-closed collaboration.
+**Teaching observations and feedback.**
 
-You should be familiar with [the UCSD
-guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
-on academic integrity as well.
+Throughout the quarter you will practice and observe teaching by recording
+yourself on video, micro-teaching in the CSE 599 practicum, and leading your
+own discussion section as a TA. You will track your growth throughout the
+quarter and give feedback to your peers on their teaching. 
 
-### Diversity and Inclusion
+### What work is required for this course?
 
-We are committed to fostering a learning environment for this course that
-supports a diversity of thoughts, perspectives and experiences, and respects
-your identities (including race, ethnicity, heritage, gender, sex, class,
-sexuality, religion, ability, age, educational background, etc.).  Our goal is
-to create a diverse and inclusive learning environment where all students feel
-comfortable and can thrive. 
+As CSE 599 is a 2-unit course, expect to spend up to 6 hours per week on this
+course, including the 80 minute weekly session. The additional three-and-a-half
+or so hours per week will be spent evaluating and refining your TA activities,
+preparing for CSE 599 practicum sessions, and consulting background research
+papers, information guides, and videos.
 
-Our instructional staff will make a concerted effort to be welcoming and
-inclusive to the wide diversity of students in this course.  If there is a way
-we can make you feel more included please let one of the course staff know,
-either in person, via email/discussion board, or even in a note under the door.
-Our learning about diverse perspectives and identities is an ongoing process,
-and we welcome your perspectives and input.  
+Specifically, here is an overview of each component:
 
-We also expect that you, as a student in this course, will honor and respect
-your classmates, abiding by the UCSD Principles of Community
-(https://ucsd.edu/about/principles.html).  Please understand that others’
-backgrounds, perspectives and experiences may be different than your own, and
-help us to build an environment where everyone is respected and feels
-comfortable.
+**Teaching Portfolios**
 
-If you experience any sort of harassment or discrimination, please contact the
-instructor as soon as possible.   If you prefer to speak with someone outside
-of the course, please contact the Office of Prevention of Harassment and
-Discrimination: https://ophd.ucsd.edu/. 
+These will be a collection of weekly TA activities reflections, feedback you
+receive on your teaching, and feedback and reflections of others' teaching.
+More details on what is required of your teaching portfolio can be found here;
+TBA
+
+**Practicum Assignments**
+
+Each week our CSE 599 session is divided into two parts: a larger-group class
+and a small-group practicum.   In practicum, you will practice some essential
+teaching skills in small groups, guided by mentor TAs, who are experienced TAs
+in the department.   There will an assignment that you must complete to prepare
+for practicum most weeks.
+
+**Class Preparation and Participation**
+
+To prepare for class, you will review a set of resources related to the theme
+of the week, which are posted on the schedule prior to the class.  Each week, a
+few of you will be designated to read the resources extra-carefully and prepare
+a short introduction/overview/reflection of the resources to help set up our
+class activities.  You are expected to attend class and participate each week.
+
+### So how do I pass?
+
+To pass this class you must:
+
+- Attend class on time and participate in each week's class session.   You should be prepared, especially when you are part of the group who is presenting the resources.  
+- Participate in every practicum, having clearly prepared beforehand.
+- Maintain your portfolio over the quarter and submit a complete portfolio at the end of the quarter.
+- Complete the end-of-course survey given at the end of the quarter.
+
+We understand that you sometimes have to miss class, and you might sometimes
+fall behind.  You must clear any absence with us in advance, and if we notice
+you are falling too far behind on the portfolio or in preparation for class, we
+will warn you that you risk not passing CSE 599.  Please take this class and
+the work involved seriously, and you will get a lot out of it.
 
