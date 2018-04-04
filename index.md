@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Teaching Methods in Computer Science – CSE 599 S18"
+title: ""
 doodle: "/doodle.png"
 ---
-
-# Teaching Methods in Computer Science
 
 <p>
 <a href="https://jpolitz.github.io">Joe Gibbs Politz</a> (Instructor)
@@ -42,6 +40,7 @@ The schedule below outlines topics, due dates, and links to assignments.
 
 <iframe width="125%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSn53Ub3FAvEmXbGMISnaiyukdqJNOsMVjEZqP0JvtILf3P7RrLd5BIEKGFX-61PTq2O6Mr2BvANC62/pubhtml?widget=true&amp;headers=false"></iframe>
 
+<a id="policies"></a>
 ## Syllabus
 
 ### By the end of this class, you will be able to:

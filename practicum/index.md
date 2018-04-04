@@ -4,7 +4,10 @@ title: "Practicum – CSE 599 S18"
 doodle: "/doodle.png"
 ---
 
-# Practicum – CSE 599 S18
+You will have a practicum assignment most weeks, which will involve preparing a
+presentation, rubric, or other work outside of class to share with a group. The
+topics and preparation will vary, and will be posted here as they are filled
+assigned.
 
 ## Elevator Pitch (Practicum assignment, Due Week 2)
 

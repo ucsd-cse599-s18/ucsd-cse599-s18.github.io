@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Portfolio – CSE 599 S18"
+title: "Portfolio"
 doodle: "/doodle.png"
 ---
-
-# Portfolio – CSE 599 S18
 
 Your CSE 599 Portfolios should consist of a Google Drive folder which you share
 with me (jpolitz@eng.ucsd.edu) and Reshul Dani (rdani@eng.ucsd.edu).    In this
