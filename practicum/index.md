@@ -18,16 +18,16 @@ questions.
 
 This week, you'll present a short reply to one of the following prompts:
 
-How does the material in this class (choose the class you are currently TAing)
-relate to what I'll do in my career after UCSD? [[ Because of the 1 minute time
-limit, you'll need to pick a very specific example to speak about.]]
+- How does the material in this class (choose the class you are currently TAing)
+  relate to what I'll do in my career after UCSD? Note that because of the 1 minute time
+  limit, you'll need to pick a very specific example to speak about!
 
-How did you know you wanted to be a Computer Scientist / software engineer?
+- How did you know you wanted to be a Computer Scientist / software engineer?
 
-What's your favorite fact in about Computer Science? What's a favorite
-technological innovation?
+- What's your favorite fact in about Computer Science? What's a favorite
+  technological innovation?
 
-How do you choose between graduate school and industry after graduation?
+- How do you choose between graduate school and industry after graduation?
 
 Your goal is to say something meaningful, correct, interesting, and useful
 within the allotted time frame: one minute.

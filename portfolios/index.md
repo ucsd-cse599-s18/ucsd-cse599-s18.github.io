@@ -43,52 +43,6 @@ example, reflections on your week 1, week 3, week 5, and week 7, and 9
 activities would meet the minimum passing threshold.  But we expect you to
 reflect most weeks.
 
-
-## Teaching Reflections (Separate documents: PDF, Google doc, Text, or whatever)
-
-Your portfolio must included a minimum of one reflection on your own teaching,
-and one reflection on someone else's teaching.    The exception to this rule is
-is that if you are not teaching a discussion section this quarter, you may
-submit two reflections of someone else's teaching.  You are welcome to have
-more.  
-
-**Reflection on your own teaching based on external feedback**:  Have someone give
-you feedback on your teaching.  Request that a mentor TA, the instructor for
-your class, or Christine observe your discussion section (note: your instructor
-should do this at least once during the quarter) and then meet with you to
-provide feedback on what they observed.   There is a small budget where you can
-treat your instructor/mentor to coffee for these meetings (no more than $10,
-please).   If you choose to get your feedback while treating your mentor to
-coffee, just submit your receipt to Prof. Alvarado and she will reimburse you
-for it.  Then, after you have met and received your feedback, write a
-reflection including the following:
-
-- The date of the observation, the class, and the name of the observer
-
-- Summarize the main strengths and weaknesses according to the person who
-  observed.  If they provided you with written feedback, you can simply copy
-  and paste these, with attribution.
-
-- Write a paragraph or two reflecting on why you think you received the
-  feedback you received (were you expecting it?  was anything a surprise?) and
-  what might do differently to address the feedback.  
-
-**Reflection on someone else's teaching**: Attend a class or discussion section
-for a class that you are not currently taking.  Pay attention to how the
-instructor/TA leads the class.  Record the class, the date and the instructor
-in your reflection .  Then address any or all of the following questions in
-your reflection: 
-
-
-- What did the instructor do to engage students in learning?  How effecting were these techniques?
-- How did the instructor use visual aids and board work in their explanation?  How effective were these?
-- How clear were the instructor's technical explanations?   What made them clear or not clear?
-- How did the instructor motivate or contextualize the course content?  How well did it work?
-- How did the instructor handle student questions?  Was this effective?  Why or why not?
-- Was there anything about the way the instructor taught that stood out to you?  What was it and why?
-- Did the instructor make efforts to include all students in their class?  How effective were they?
-- (Addressing any other aspects of the instruction that stood out to you is also great!)
-
 ## Micro-Teach Video and Reflection (week 2 assignment, reflection document with link to video)
 
 The next piece you will include in your portfolio is your assignment from Week
@@ -129,6 +83,17 @@ link to the video  at the top of this form. Relate your comments and
 observations to the **Characteristics of effective feedback** at the bottom of
 the form.  Include the completed form/reflection in your portfolio. 
 
+
+
+## Teaching Reflections (Separate documents: PDF, Google doc, Text, or whatever)
+
+Your portfolio must included a minimum of one reflection on your own teaching,
+and one reflection on someone else's teaching.    The exception to this rule is
+is that if you are not teaching a discussion section this quarter, you may
+submit two reflections of someone else's teaching.  You are welcome to have
+more.  
+
+We will make more details of this available before week 2.
 ## End of Quarter Reflection (document of any kind)
 
 The final piece of your Portfolio is a reflection to be done at the end of the
