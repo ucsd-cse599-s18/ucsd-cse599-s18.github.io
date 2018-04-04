@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Practicum – CSE 599 S18"
+title: "Practicum"
 doodle: "/doodle.png"
 ---
 
