@@ -152,3 +152,5 @@ you are falling too far behind on the portfolio or in preparation for class, we
 will warn you that you risk not passing CSE 599.  Please take this class and
 the work involved seriously, and you will get a lot out of it.
 
+*This course uses material from the offering in winter 2018
+[https://sites.google.com/eng.ucsd.edu/cse-599-winter-2018/home](https://sites.google.com/eng.ucsd.edu/cse-599-winter-2018/home)*
