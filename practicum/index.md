@@ -9,6 +9,34 @@ presentation, rubric, or other work outside of class to share with a group. The
 topics and preparation will vary, and will be posted here as they are filled
 assigned.
 
+## Micro-teach I (Practicum assignment, Weeks 3 & 4)
+
+This practicum asks you to revisit the presentation you prepared before (in the
+Micro video) and continue to practice the same core skills. We'll throw in a
+more interactive component and ask you to present live and handle actual
+questions from students as they arise.
+
+Prepare a 5-minute discussion section for our in-class practicum. Keep the same
+topic of your video from last week, and make sure to refine your presentation
+based on the observations you made when watching the video. Now that you'll be
+presenting "live", in the middle of your explanation, you should expect
+questions from the "audience" that will force you to take your explanation in a
+slightly different direction. This week we want you to continue to focus on
+good whiteboard practices, while also structuring your presentation to work
+towards a learning outcome (see the resources for week 3) you have for your
+"students": what do you want them to be able to do after participating in this
+discussion?
+
+To make sure there is time for discussion and feedback, only half the students
+in each group will present in each of the two weeks dedicated to this practicum
+assignment.  THe first three students listed in each group in this Piazza post
+will present in week 3, while the last three will present in week 4.   If you
+are not presenting, it is your job to make the experience as authentic for the
+"TA" as possible: role-play as though you were a student attending discussion
+section, ask questions when appropriate, and participate.
+
+After each TA presents their micro-teach, there will be time for reflection.
+
 ## Elevator Pitch (Practicum assignment, Due Week 2)
 
 As a TA, you can serve as a role model and mentor for your students. They may
