@@ -85,15 +85,51 @@ the form.  Include the completed form/reflection in your portfolio.
 
 
 
-## Teaching Reflections (Separate documents: PDF, Google doc, Text, or whatever)
+## Teaching Reflections
 
-Your portfolio must included a minimum of one reflection on your own teaching,
-and one reflection on someone else's teaching.    The exception to this rule is
-is that if you are not teaching a discussion section this quarter, you may
-submit two reflections of someone else's teaching.  You are welcome to have
-more.  
+Your portfolio must include a minimum of one reflection on your own teaching,
+and one reflection on someone else's teaching. The exception to this rule is is
+that if you are not teaching a discussion section this quarter, you may submit
+two reflections of someone else's teaching.  You are welcome to have more.  
 
-We will make more details of this available before week 2.
+For your observation of another class, your your assignment is to observe one
+of the classes listed below, or any other class using an active learning
+technique, and answer the questions listed below, and then post your responses
+to these questions in a reflection document that you will post to Piazza.
+
+Each of these instructors have volunteered their class as one that incorporates
+some kind of active learning activity.   The list will be expanded if/when I
+recruit other participating instructors, but if you want to get the assignment
+done early choose one of the classes below.  You may also observe another class
+that you know uses active learning, but you may not observe a class that you
+are taking (OK to observe a class you are TA'ing for).
+
+While you observe the class make sure to take notes. Questions you must answer
+as homework for week 6 are listed below, but you must also answer them in
+response to a discussion post on Piazza here, so you are welcome to take notes
+on your computer rather then on paper.
+
+Here are your options for observation.  Also, remember many of these classes
+have seating charts and/or are very full, so please allow students to take
+their seats first and fill in empty seats only a few minutes into class.
+
+CSE 8A (Intro to Java): MWF	9:00 AM - 9:50 AM	CENTR 119, 	MWF	10:00 AM - 10:50 AM	CENTR 109 
+CSE 8B (Intro to Java II): MWF	8:00 AM - 8:50 AM	PCYNH 106 (** Avoid Apr 27, May 11 **)
+CSE 131 (Compiler Construction): MWF 9-9:50 CENTR 109 (** Avoid May 4 **)
+CSE 141 (Intro to Computer Architecture): TR 9:30a-10:50a WLH 2005
+
+The questions to answer (post on Piazza)
+
+- Describe the active learning exercise (or exercises) that took place in the
+  class you attended.
+- What evidence of learning did you see during the active learning exercise?
+- How widespread was this evidence (how many students in the class displayed
+  it?  How much content in the class was this evidence displayed for? Etc)
+- Do you think there were there advantages of this active learning exercise
+  over a traditional lecture style?  Was there anything that could have been
+  improved?
+
+
 ## End of Quarter Reflection (document of any kind)
 
 The final piece of your Portfolio is a reflection to be done at the end of the
