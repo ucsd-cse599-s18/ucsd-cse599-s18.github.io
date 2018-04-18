@@ -113,10 +113,10 @@ Here are your options for observation.  Also, remember many of these classes
 have seating charts and/or are very full, so please allow students to take
 their seats first and fill in empty seats only a few minutes into class.
 
-CSE 8A (Intro to Java): MWF	9:00 AM - 9:50 AM	CENTR 119, 	MWF	10:00 AM - 10:50 AM	CENTR 109 
-CSE 8B (Intro to Java II): MWF	8:00 AM - 8:50 AM	PCYNH 106 (** Avoid Apr 27, May 11 **)
-CSE 131 (Compiler Construction): MWF 9-9:50 CENTR 109 (** Avoid May 4 **)
-CSE 141 (Intro to Computer Architecture): TR 9:30a-10:50a WLH 2005
+- CSE 8A (Intro to Java): MWF	9:00 AM - 9:50 AM	CENTR 119, 	MWF	10:00 AM - 10:50 AM	CENTR 109 
+- CSE 8B (Intro to Java II): MWF	8:00 AM - 8:50 AM	PCYNH 106 (** Avoid Apr 27, May 11 **)
+- CSE 131 (Compiler Construction): MWF 9-9:50 CENTR 109 (** Avoid May 4 **)
+- CSE 141 (Intro to Computer Architecture): TR 9:30a-10:50a WLH 2005
 
 The questions to answer (post on Piazza)
 
