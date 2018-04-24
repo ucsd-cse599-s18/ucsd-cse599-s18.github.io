@@ -112,12 +112,15 @@ on your computer rather then on paper.
 
 Here are your options for observation.  Also, remember many of these classes
 have seating charts and/or are very full, so please allow students to take
-their seats first and fill in empty seats only a few minutes into class.
+their seats first and fill in empty seats only a few minutes into class. Please
+don't be late or leave early, as it can disrupt the class.
 
 - CSE 8A (Intro to Java): MWF	9:00 AM - 9:50 AM	CENTR 119, 	MWF	10:00 AM - 10:50 AM	CENTR 109 
 - CSE 8B (Intro to Java II): MWF	8:00 AM - 8:50 AM	PCYNH 106 **Avoid Apr 27, May 11**
 - CSE 131 (Compiler Construction): MWF 9-9:50 CENTR 109 **Avoid May 4**
 - CSE 141 (Intro to Computer Architecture): TR 9:30a-10:50a WLH 2005
+- CSE 105 (Introduction to the Theory of Computation): MWF 10-11, 11-12, CENTER 119
+  [Please identify yourself as a TA to the instructor for CSE 105 a few minutes before class]
 
 The questions to answer (post on Piazza, and include as a document in your
 portfolio)
