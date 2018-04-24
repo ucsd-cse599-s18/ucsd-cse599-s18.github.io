@@ -95,7 +95,8 @@ two reflections of someone else's teaching.  You are welcome to have more.
 For your observation of another class, your your assignment is to observe one
 of the classes listed below, or any other class using an active learning
 technique, and answer the questions listed below, and then post your responses
-to these questions in a reflection document that you will post to Piazza.
+to these questions in a reflection document that you will post to Piazza **and
+include a copy of in your portfolio**.
 
 Each of these instructors have volunteered their class as one that incorporates
 some kind of active learning activity.   The list will be expanded if/when I
@@ -118,7 +119,8 @@ their seats first and fill in empty seats only a few minutes into class.
 - CSE 131 (Compiler Construction): MWF 9-9:50 CENTR 109 **Avoid May 4**
 - CSE 141 (Intro to Computer Architecture): TR 9:30a-10:50a WLH 2005
 
-The questions to answer (post on Piazza)
+The questions to answer (post on Piazza, and include as a document in your
+portfolio)
 
 - Describe the active learning exercise (or exercises) that took place in the
   class you attended.
