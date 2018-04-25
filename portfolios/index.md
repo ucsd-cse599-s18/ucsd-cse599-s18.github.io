@@ -119,7 +119,7 @@ don't be late or leave early, as it can disrupt the class.
 - CSE 8B (Intro to Java II): MWF	8:00 AM - 8:50 AM	PCYNH 106 **Avoid Apr 27, May 11**
 - CSE 131 (Compiler Construction): MWF 9-9:50 CENTR 109 **Avoid May 4**
 - CSE 141 (Intro to Computer Architecture): TR 9:30a-10:50a WLH 2005
-- CSE 105 (Introduction to the Theory of Computation): MWF 10-11, 11-12, CENTER 119
+- CSE 105 (Introduction to the Theory of Computation): MWF 10-11, 11-12, CENTER 119 **Avoid Apr 25, May 3**
   [Please identify yourself as a TA to the instructor for CSE 105 a few minutes before class]
 
 The questions to answer (post on Piazza, and include as a document in your
