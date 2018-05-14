@@ -9,6 +9,27 @@ presentation, rubric, or other work outside of class to share with a group. The
 topics and preparation will vary, and will be posted here as they are filled
 assigned.
 
+## Grading I (Practicum assignment, Week 7)
+
+In this session, you'll workshop grading strategies that are effective for the specific type of class you're currently TAing. Coming up with extensive auto-grading and testing scripts is important for classes that are programming heavy, whereas rubrics for large projects or written assignments are used heavily in design or theoretical classes.
+
+Before practicum, draft a rubric for how to grade an assignment in your course.  This can be a rubric you've already developed, or one you're currently working on.  If you do not have development of rubrics as part of your TA duties, do a little brainstorming and take some notes on how you might develop such a rubric.
+
+During practicum, everyone will have 1 minute to present the following:
+
+1. A brief introduction to the assignment and the class that it is for.  What do students have to do at a very high level.  (should take ~15 seconds)
+2. A brief overview of the rubric characteristics (e.g. does it include auto-grading, what kind of feedback will students get, how are points allocated).  This should not be a comprehensive presentation of the rubric, but rather it should give the group a high-level sense of what is being assessed and how (about 30 seconds here).
+3. One or two things that you struggled with (and perhaps didn't go well) or are struggling with on the rubric.  (again, 15 seconds)
+
+Then for the remaining ~30 minutes of practicum, you will, as a group, select one (or possibly two) types of classes from the presented set and compile a "how-to" guide for grading an assignment for your type of class/assignment. Brainstorm the common pitfalls and crowdsource possible solutions. Your guide should include the following headings: 
+
+1. Rubric styles and comparison of advantages / disadvantages for this class
+2. What makes a question hard to grade? And how to deal with it?
+3. Handling regrade requests
+4. Essential time-saving tricks (tech, TA/tutor labor division, assignment design, etc.)
+
+Share your guide with me (jpolitz@eng.ucsd.edu) and our TA (rdani@eng.ucsd.edu).
+
 ## Micro-teach I (Practicum assignment, Weeks 3 & 4)
 
 This practicum asks you to revisit the presentation you prepared before (in the
