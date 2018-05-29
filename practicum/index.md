@@ -9,6 +9,36 @@ presentation, rubric, or other work outside of class to share with a group. The
 topics and preparation will vary, and will be posted here as they are filled
 assigned.
 
+### Micro-teach II (Practicum assignment, Week 9&10, option 1)
+
+As you grow more comfortable and confident presenting, we'll ask you to focus on the organization, interactivity, and inclusiveness of your micro-teaching discussion.
+
+Prepare a longer (8-minute discussion) section for presenting to your group. The content must be significantly different from your previous practicum presentation, but you could keep the same course context if you'd like (e.g. the follow-up topic in the course). You can aslo use anything you do in your actual discussion section for your class. In your discussion section you should focus on all of the following: 
+
+   A clear and organized technical explanation
+    Interactivity and ensuring that students understand. You must include an active learning activity that spans 1-4 minutes of your time.
+    Addressing different approaches to the material (i.e. writing, speaking, examples, problems to work) as appropriate
+    Mechanics: speaking style, board work
+
+The exact format of your section is up to you, but you need to complete it in about 8 minutes. You might choose to give examples, worksheets, peer instruction problems, group work, a mini-lecture, or (most likely) some combination. 
+
+To make sure there is time for discussion and feedback, only half the students in each group will present in each of the two weeks dedicated to this practicum assignment).  If you are not presenting, it is your job to make the experience as authentic for the "TA" as possible: role-play as though you were a student attending discussion section, ask questions when appropriate, and participate.
+
+As before, complete each session by debriefing lessons learned from the presentations of the day.
+
+
+### Grading II (Practicum assignment, Weeks 9&10, option 2)
+
+Select a HW, exam, or assignment question that you graded so far this quarter. Prepare a short presentation (6-8 mins) including: 
+
+   Context of the assignment: how did students complete the question? did they work individually? how many submissions did you have to grade? how much does the score of this question impact the student's overall grade?
+    Correct solution and rubric: briefly review what the solution key would have been and what rubric you used. 
+    Was the grading effective? For example, were you able to complete it in a timely manner? were students generally accepting of the score they received? What changes would you make to the rubric (or the wording of the question) in the future? Illustrate with specific (anonymized) student examples and what grade they received. 
+
+To make sure there is time for discussion and feedback, only half the students in each group will present in each of the two weeks dedicated to this practicum assignment). We will go according to your order - first 3 in week 9 and next 3 in Week 10. If you are not presenting, it is your job to thoughtfully engage with the presentation.
+
+As before, complete each session by debriefing lessons learned from the presentations of the day.
+
 ### Office hours role-play (Practicum assignment, Week 8)
 
 In this week's practicum activity, you will role-play working with different students in a one-on-one situation (e.g. office hours, or in the lab). Before practicum, you will need to prepare:
